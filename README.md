@@ -7,4 +7,5 @@ Linear Regression with mini batch- Tutorial 4
 3. (Optional) Replicate Linear Regression code on a blank notebook, without viewing this code. [This is called retrieval practice.](https://www.learningscientists.org/blog/2016/6/23-1)
 4. Complete exercises.
 
-## Refer the ipynb files to get started
+## Refer the ipynb files to get started with tutorial (lab_4_2.ipynb)
+## The solutions to the lab are given in ASSIGNMENT_solution_lab_4_2.ipynb
